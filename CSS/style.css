@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Helvetica;
+    font-family: helvetica;
+    font-weight: bold;
 }
 
 body {
@@ -57,12 +58,13 @@ body {
 }
 
 #buttons-container button {
-    border: 2px solid transparent;
+    border: 3px solid transparent;
     border-radius: 0;
     height: 3em;
     font-size: 1.2em;
     background-color: #dbdbdb;
     cursor: pointer;
+    
 }
 
 #buttons-container .number {
