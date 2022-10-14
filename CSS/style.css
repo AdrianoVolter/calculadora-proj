@@ -12,7 +12,6 @@ body {
     align-items: center;
     justify-content: center;
     padding: 4em;
-
 }
 
 #calc {
@@ -63,14 +62,12 @@ body {
     height: 3em;
     font-size: 1.2em;
     background-color: #dbdbdb;
-    cursor: pointer;
-    
+    cursor: pointer; 
 }
 
 #buttons-container .number {
     background-color: #f3f3f3;
 }
-
 
 #buttons-container button:hover {
     background-color: #bababa;
@@ -84,13 +81,11 @@ body {
     background-color: red;
 }
 
-
 #buttons-container #equal-btn {
     grid-column: span 2;
     background-color: #75a5cb;
 }
 
 #buttons-container #equal-btn:hover {
-    
     background-color: #3a91d8;
 }
