@@ -1,8 +1,9 @@
 # Calculadora-projeto
 ***
-## Calculadora do zero, orientada a objetos.
+## Calculadora orientada a objetos.
 
 ![](.github/calculadora.png)
+
 ## Tecnologias usadas:
 - HTML
 - CSS
